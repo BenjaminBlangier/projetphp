@@ -39,5 +39,19 @@ fiche produit
       
       
 contact formulaire
+      contacter l'admin
+
 404 perso
-article en page d'accueil
+      en rapport avec les 5 themes, drole
+      multiples, choisies aleatoirement
+
+page d'accueil
+      liste des derniers articles
+      coup de coeur de la semaine
+      possibilitée de réagir à l'article
+      barre de recherche
+      redirection vers les 5 domaines
+      news : auteur, photo, contenu, date (categorie ?)
+      
+easter egg accessible n'importe où
+
