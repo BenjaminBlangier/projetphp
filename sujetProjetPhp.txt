@@ -1,0 +1,9 @@
+site VOD films, series, jeux, musiques, bds
+consulter en ligne/dl en ligne
+version numerique ou physique
+gestion de stock
+un design par categorie
+gestion de comptes (user/admin)
+fiche produit + galerie photos par produit
+contact formulaire
+404 perso
