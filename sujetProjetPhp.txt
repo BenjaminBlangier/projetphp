@@ -13,7 +13,7 @@ consulter en ligne/dl ou commande physique
             page commandes à valider par un admin
             frais de port fixes
             avertir l'utilisateur à chaque étape
-      
+            
 gestion de stocks
       Pouvoir incrementer un stock "Arrivage de produits"
       stock -1 si commande validée
@@ -21,8 +21,23 @@ gestion de stocks
       Produit en rupture si stock == 0
       
 gestion de comptes (user/admin)
-upload pour l'admin
-fiche produit + galerie photos par produit
+      2 types d'utilisateur : client et admin
+      page de profil
+      recap des commandes passées
+      Accès à certaines parties du site (adresse)
+            ajout de produits et gestion
+            gestion des stocks
+            gestion des commandes
+            gestion des news
+      upload pour l'admin
+      
+fiche produit 
+      galerie photos par produit
+      structure fiche produit differentes selon la categorie (film -> casting, real, etc|musique -> tracklist, extrait ...)
+      commentaire et notation du produit
+      coups de coeurs du site
+      
+      
 contact formulaire
 404 perso
 article en page d'accueil
