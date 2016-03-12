@@ -1,20 +1,24 @@
 site VOD films, series, jeux, musiques, bds
       5 catégories : 
       5 univers diffèrents
+      un design par categorie
       5 types de fiche produit differentes
       
 consulter en ligne/dl ou commande physique
       2 boutons ajouter au panier (physique et num)
       Prix differents
+      panier
+            enregistrer adresse
+            enregistrer la commande
+            commandes à valider par un admin
+               
       
-gestion de stock
+gestion de stocks
       Pouvoir incrementer un stock "Arrivage de produits"
       stock -1 si commande validée
       Pouvoir modif un stock "inventaire"
       Produit en rupture si stock == 0
       
-
-un design par categorie
 gestion de comptes (user/admin)
 upload pour l'admin
 fiche produit + galerie photos par produit
