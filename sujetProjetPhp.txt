@@ -1,6 +1,12 @@
 site VOD films, series, jeux, musiques, bds
-consulter en ligne/dl en ligne
-version numerique ou physique
+      5 catégories : 
+      5 univers diffèrents
+      5 types de fiche produit differentes
+      
+consulter en ligne/dl en ligne + version numerique ou physique
+      2 boutons ajouter au panier (physique et num)
+      Prix differents
+      
 gestion de stock
 un design par categorie
 gestion de comptes (user/admin)
@@ -9,7 +15,3 @@ fiche produit + galerie photos par produit
 contact formulaire
 404 perso
 article en page d'accueil
-
-5 catégories : 
-5 univers diffèrents
-5 types de fiches produits differentes
