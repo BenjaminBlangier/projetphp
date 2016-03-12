@@ -10,8 +10,9 @@ consulter en ligne/dl ou commande physique
       panier
             enregistrer adresse
             enregistrer la commande
-            commandes à valider par un admin
-               
+            page commandes à valider par un admin
+            frais de port fixes
+            avertir l'utilisateur à chaque étape
       
 gestion de stocks
       Pouvoir incrementer un stock "Arrivage de produits"
