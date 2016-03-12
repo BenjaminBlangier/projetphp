@@ -4,7 +4,12 @@ version numerique ou physique
 gestion de stock
 un design par categorie
 gestion de comptes (user/admin)
+upload pour l'admin
 fiche produit + galerie photos par produit
 contact formulaire
 404 perso
 article en page d'accueil
+
+5 catégories : 
+5 univers diffèrents
+5 types de fiches produits differentes
