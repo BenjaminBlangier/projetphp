@@ -3,11 +3,17 @@ site VOD films, series, jeux, musiques, bds
       5 univers diffèrents
       5 types de fiche produit differentes
       
-consulter en ligne/dl en ligne + version numerique ou physique
+consulter en ligne/dl ou commande physique
       2 boutons ajouter au panier (physique et num)
       Prix differents
       
 gestion de stock
+      Pouvoir incrementer un stock "Arrivage de produits"
+      stock -1 si commande validée
+      Pouvoir modif un stock "inventaire"
+      Produit en rupture si stock == 0
+      
+
 un design par categorie
 gestion de comptes (user/admin)
 upload pour l'admin
