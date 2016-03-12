@@ -7,3 +7,4 @@ gestion de comptes (user/admin)
 fiche produit + galerie photos par produit
 contact formulaire
 404 perso
+article en page d'accueil
